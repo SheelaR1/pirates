@@ -1,7 +1,11 @@
 
-__all__ = ["drowned_pirates",
-"lucky",
-"man_eating_monkeys",
-"nothing",
-"sickness",
-"seagull"]
+__all__ = [
+    "drowned_pirates",
+    "lucky",
+    "man_eating_monkeys",
+    "nothing",
+    "sickness",
+    "seagull",
+    "trading_merchants"  
+]
+

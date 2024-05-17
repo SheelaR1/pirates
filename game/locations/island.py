@@ -1,4 +1,3 @@
-
 from game import location
 import game.config as config
 from game.display import announce
